@@ -118,3 +118,8 @@ src/legacy-tests
 
 # Screenshots
 screens/
+
+# SQE Team additions
+.data/
+reports/tmp/
+!scripts/pretalx.sqe.cfg
